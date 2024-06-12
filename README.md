@@ -1,7 +1,4 @@
-## FastAPI 
-这是一个 FastAPI模板工程。
-
-## 环境组件
+## FastAPI（一个 FastAPI模板工程）
 
 ### 版本：
 Python 3.8
