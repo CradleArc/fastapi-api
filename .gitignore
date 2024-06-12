@@ -1,0 +1,13 @@
+# Virtual environment
+venv
+
+# IDE
+.idea
+
+/venv/
+#/res/
+
+#build
+/build/
+/dist/
+__pycache__/
