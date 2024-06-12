@@ -1,9 +1,5 @@
-# FastAPI Base
+## FastAPI 
 这是一个 FastAPI模板工程。
-
-[Github: FastAPI Demo](https://github.com/zhenqiang-sun/fastapi_demo/)
-
-https://github.com/zhenqiang-sun/fastapi_demo/
 
 ## 环境组件
 
