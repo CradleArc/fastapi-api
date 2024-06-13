@@ -1,7 +1,6 @@
-## FastAPI（一个 FastAPI模板工程）
+## 一个 FastAPI模板工程
 
-### 版本：
-Python 3.8
+### 版本：Python 3.8
 
 ### 组件：
 - FastAPI: https://fastapi.tiangolo.com/
